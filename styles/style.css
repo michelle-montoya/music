@@ -1,0 +1,19 @@
+
+*{
+    margin:0;
+    padding: 0;
+
+}
+
+body {
+    font-family:Arial, sans-serif;
+    line-height: 100px;
+}
+
+.container-music{
+    background: url("../assets/angel.jpg") no-repeat center center/cover;
+    color: white;
+    text-align: center;
+    padding: 100px;
+    height: 100vh;
+}
